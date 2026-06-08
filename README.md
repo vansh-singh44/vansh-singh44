@@ -2,40 +2,56 @@
 
 # 🚀 Vansh Singh
 
-### Computer Science Student • AI/ML Enthusiast • Open Source Learner
+### Computer Science Engineering Student • AI/ML Enthusiast • Open Source Explorer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Computer+Science+Student;AI%2FML+Enthusiast;Building+Cool+Projects;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B+I'm+Vansh+Singh;Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Projects+and+Learning+Everyday;Future+Software+Engineer+%F0%9F%9A%80" />
 
-<img src="https://komarev.com/ghpvc/?username=vansh-singh44&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vansh-singh44&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+<a href="https://github.com/vansh-singh44">
+<img src="https://img.shields.io/github/followers/vansh-singh44?label=Followers&style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-# ⚡ About Me
+# ⚡ whoami
 
-```yaml
-Name      : Vansh Singh
-Role      : Computer Science Student
-Focus     : AI / ML & Software Development
-Learning  : C++, Python, Machine Learning
-Interest  : Open Source, Hackathons, Problem Solving
-Status    : Building My Future 🚀
+```bash
+$ whoami
+
+{
+  "name": "Vansh Singh",
+  "degree": "B.Tech Computer Science Engineering",
+  "branch": "CSE Core",
+  "passion": "Artificial Intelligence & Machine Learning",
+  "currently_learning": [
+      "C++",
+      "Python",
+      "Data Structures & Algorithms",
+      "Machine Learning",
+      "Git & GitHub"
+  ],
+  "goal": "To become a great Software Engineer 🚀"
+}
 ```
 
 ---
 
-# 🎯 Current Mission
+# 🎯 Current Focus
 
-- 🧠 Master Data Structures & Algorithms
-- 🤖 Learn Machine Learning & Deep Learning
-- 💻 Build Real-World Projects
-- 🌐 Contribute to Open Source
-- 🚀 Become an Excellent Software Engineer
+- 🌱 Learning **C++, Python & Machine Learning**
+- 💻 Building real-world projects
+- 🚀 Exploring Open Source
+- 📚 Strengthening DSA concepts
+- 🏆 Participating in Hackathons
 
 ---
 
-# 🛠 Tech Arsenal
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -45,13 +61,13 @@ Status    : Building My Future 🚀
 
 ---
 
-# 📊 GitHub Battlefield
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vansh-singh44&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vansh-singh44&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-singh44&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-singh44&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -77,7 +93,7 @@ Status    : Building My Future 🚀
 
 ---
 
-# 🏆 Trophy Room
+# 🏆 Achievement Board
 
 <div align="center">
 
@@ -89,49 +105,63 @@ Status    : Building My Future 🚀
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🚦 Traffic Demand Prediction | ML model for urban traffic analytics |
-| 🤖 AI-ML Vityarthi | Learning & experimenting with AI |
-| 📚 Study Time Tracker | Productivity tracker using Python |
-| 🌐 Portfolio | Personal developer portfolio |
+### 🚦 Traffic Demand Prediction
+Machine Learning model for predicting urban traffic demand patterns using historical traffic and weather data.
+
+### 🤖 AI/ML Learning Journey
+A collection of notebooks and experiments while learning AI and Machine Learning.
+
+### 📚 Study Tracker
+A productivity project to organize learning and coding sessions.
+
+### 🌐 Personal Portfolio
+My personal developer portfolio showcasing projects and skills.
 
 ---
 
-# 🎵 Vibe While Coding
+# 💻 Coding Setup
 
-```text
-🎧 Now Playing
-
-Lo-fi Beats × Deep Focus
-Volume      : ██████████ 100%
-Distraction : 0%
-Coffee      : Loading... ☕
+```yaml
+OS: Windows 11
+Editor: VS Code
+Language: C++ | Python
+Version Control: Git & GitHub
+Coffee: ☕ Required
+Music: 🎧 Lo-fi Beats
 ```
 
 ---
 
-# 🌟 Quote
+# 🎵 Currently Vibing To
 
-> "Success doesn't come from what you do occasionally,
-> it comes from what you do consistently."
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎧 Midnight Coding Session
+
+Focus Level    ██████████ 100%
+
+Bugs Fixed     ███████░░░ 70%
+
+Energy         ████████░░ 80%
+
+Coffee          ☕ ☕ ☕
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/vansh-singh-b9736337b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://github.com/vansh-singh44">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -140,23 +170,10 @@ Coffee      : Loading... ☕
 
 <div align="center">
 
-### 🚀 Keep Learning • Keep Building • Keep Growing
+## 🚀 Learn • Build • Improve • Repeat
 
-⭐ If you like my projects, consider giving them a star!
+*"Consistency beats talent when talent doesn't work consistently."*
+
+⭐ Thanks for visiting my profile!
 
 </div>
-
-<!--
-**vansh-singh44/vansh-singh44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

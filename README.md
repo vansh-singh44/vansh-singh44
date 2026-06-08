@@ -1,18 +1,19 @@
 <div align="center">
 
-# 🚀 Vansh Singh
+# VANSH SINGH
 
-### Computer Science Engineering Student • AI/ML Enthusiast • Open Source Explorer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B+I'm+Vansh+Singh;Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Projects+and+Learning+Everyday;Future+Software+Engineer+%F0%9F%9A%80" />
+### Computer Science Engineering Student
+### AI/ML Enthusiast • Open Source Explorer
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=vansh-singh44&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-<a href="https://github.com/vansh-singh44">
-<img src="https://img.shields.io/github/followers/vansh-singh44?label=Followers&style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-ff1744?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-VIT_BHOPAL-1E88E5?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-CSE_CORE-00C853?style=for-the-badge"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=vansh-singh44&style=for-the-badge&color=orange"/>
 
 </div>
 
@@ -20,22 +21,24 @@
 
 # ⚡ whoami
 
-```bash
-$ whoami
-
+```json
 {
   "name": "Vansh Singh",
   "degree": "B.Tech Computer Science Engineering",
-  "branch": "CSE Core",
-  "passion": "Artificial Intelligence & Machine Learning",
-  "currently_learning": [
-      "C++",
-      "Python",
-      "Data Structures & Algorithms",
-      "Machine Learning",
-      "Git & GitHub"
+  "university": "VIT Bhopal",
+  "specialization": "CSE Core",
+  "interests": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Data Structures & Algorithms",
+    "Open Source"
   ],
-  "goal": "To become a great Software Engineer 🚀"
+  "currently_learning": [
+    "C++",
+    "Python",
+    "Git & GitHub"
+  ],
+  "goal": "Building impactful software 🚀"
 }
 ```
 
